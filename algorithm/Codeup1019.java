@@ -2,15 +2,17 @@ package algorithm;
 import java.util.Scanner;
 
 public class Codeup1019 {
-    public static void main(String[] args){
+    public static void main(String[] args) {
+
         Scanner sc = new Scanner(System.in);
+        String a = sc.next();
 
-        int y=sc.nextInt();
-        int m=sc.nextInt();
-        int d=sc.nextInt();
-
-        System.out.printf("%d.%02d.%02d",y,m,d);
-        sc.close();
+        String[] arr = a.split("\\.");
+        int A = Integer.valueOf(arr[0]);
+        int B = Integer.valueOf(arr[1]);
+        int C = Integer.valueOf(arr[2]);
+        
+        System.out.printf("%04d.%02d.%02d", A, B, C);
     }
-    
+}
 }
