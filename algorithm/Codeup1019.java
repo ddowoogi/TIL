@@ -15,4 +15,4 @@ public class Codeup1019 {
         System.out.printf("%04d.%02d.%02d", A, B, C);
     }
 }
-}
+
