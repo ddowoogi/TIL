@@ -1,7 +1,7 @@
 package algorithm;
 
 import java.util.Scanner;
-public class Coudeup1018 {
+public class Codeup1018 {
     public static void main(String args[]) { 
         
         Scanner sc = new Scanner(System.in);
