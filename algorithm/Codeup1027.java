@@ -5,10 +5,13 @@ public class Codeup1027 {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
 
-        String[] value=sc.nextLine().split("\\.");
+        String value[]=sc.next().split("\\.");
 
-        System.out.println(Integer.parseInt(value[2])+"-"+Integer.parseInt(value[1])+"-"+Integer.parseInt(value[0]));
+        System.out.println(value[2]+'-'+value[1]+'-'+value[0]);
+        
         sc.close();
+        
+        
     }
     
 }
