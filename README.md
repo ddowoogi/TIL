@@ -6,3 +6,7 @@ Today I Learned
 - Back_end
   - Java
   - Spring
+  - JSP
+- Front_end
+  - HTML/CSS
+  - JS
