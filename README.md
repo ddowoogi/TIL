@@ -7,8 +7,12 @@ Today I Learned
   - Java
   - Spring
   - JSP
+  
 - Front_end
   - HTML/CSS
   - JS
+  - React
+  
 - Database
   - Mysql
+  - Oracle
