@@ -12,7 +12,9 @@ Today I Learned
   - HTML/CSS
   - JS
   - React
+  - Jquery
   
 - Database
   - Mysql
   - Oracle
+  - MyBatis
