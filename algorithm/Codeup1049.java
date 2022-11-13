@@ -13,7 +13,7 @@ public class Codeup1049{
        
        else
           System.out.printf("0");
-       
+       sc.close();
 
     }
 }
