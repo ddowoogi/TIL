@@ -12,5 +12,6 @@ public class Codeup1048 {
 
 //        System.out.println(a>>b);
         System.out.println(a * (int) Math.pow(2, b));
+        sc.close();
         }
     }
