@@ -1,3 +1,5 @@
+package algorithm;
+
 import java.util.Scanner;
 
 public class Codeup1070 {
@@ -26,7 +28,9 @@ public class Codeup1070 {
             case 10 :
             case 11 : System.out.println("fall");
             break;
-
+            
+            
             }
+            sc.close();
     }
 }
