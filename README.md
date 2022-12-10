@@ -10,7 +10,7 @@ Today I Learned
   
 - Front_end
   - HTML/CSS
-  - JS
+  - JavaScript
   - React
   - Jquery
   
