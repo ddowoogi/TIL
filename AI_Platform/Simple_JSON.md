@@ -1,5 +1,6 @@
 ### JSON 개요
 <hr>
+
 JSON(제이슨 , JavaScript Object Notation) 표기법은 인간이 읽을 수 있는 데이터 교환용으로 설계된 경량 텍스트 기반 개방형 표준 포멧이다. JSON 에서 사용되는 규칙은 프로그래머들에게 잘 알려진 C, C++, Java, Python, Perl 등 수많은 프로그래밍 언어에서 쉽게 이용할 수 있다. JSON 은 JavaScript 객체 표기법을 의미한다.
 
 
