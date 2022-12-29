@@ -13,5 +13,6 @@ public class Codeup1072 {
       arrNum[i] = sc.nextInt();
       System.out.println(arrNum[i]);
     }
+    sc.close();
   }
 }
