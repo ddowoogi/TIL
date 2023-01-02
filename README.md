@@ -16,5 +16,4 @@ Today I Learned
   
 - Database
   - Mysql
-  - Oracle
   - MyBatis
