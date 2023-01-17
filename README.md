@@ -7,6 +7,7 @@
   - Java
   - Spring
   - JSP
+  - servlet
   
 - Front_end
   - HTML/CSS
