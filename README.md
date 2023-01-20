@@ -18,4 +18,3 @@
 - Database
   - Mysql
   - MyBatis
-  - Oracle
