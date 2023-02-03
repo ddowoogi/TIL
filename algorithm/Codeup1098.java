@@ -31,5 +31,6 @@ public class Codeup1098 {
 			}
 			System.out.println();
 		}
+		sc.close();
 	}
 }
