@@ -4,10 +4,7 @@ import java.util.Scanner;
 
 public class Codeup1430 {   
 
-//  5
-//	2 52 23 55 100
-//	4
-//	5 2 55 99
+
 
 	public static void main(String[] args) {
 
@@ -45,7 +42,7 @@ public class Codeup1430 {
 		}
 		
 				
-		for(int i = 0; i < out.length; i++) { // 결과출력용
+		for(int i = 0; i < out.length; i++) { 
 			System.out.printf("%d ",out[i]);
 			
 		} 
