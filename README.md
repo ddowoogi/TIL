@@ -18,5 +18,5 @@
 - Database
   - Mysql
   - MyBatis
-  - Oracle
+  
 
