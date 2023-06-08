@@ -12,7 +12,6 @@
 - Front_end
   - HTML/CSS
   - JavaScript
-  - React
   - Jquery
   
 - Database
