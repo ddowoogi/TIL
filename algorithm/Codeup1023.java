@@ -10,6 +10,6 @@ public class Codeup1023 {
         int b=Integer.parseInt(value[1]);
 
         System.out.printf("%d%n%d",a,b);
-    
-    }
+       sc.close();
+           }
 }
