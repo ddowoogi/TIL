@@ -6,9 +6,9 @@ import java.util.ArrayList;
 
 public class Codeup1231 {
   public static void main(String[] args) {
-    Scanner scan = new Scanner(System.in);
+    Scanner sc = new Scanner(System.in);
     ArrayList<Integer> arr = new ArrayList<>();
-    String input = scan.nextLine();
+    String input = sc.nextLine();
     String[] part = input.split("");
     DecimalFormat df = new DecimalFormat("0.00");
     int a = 0;
@@ -44,5 +44,6 @@ public class Codeup1231 {
         default :
             System.out.println(df.format((double)Math.round(((double)input1*100)/(double)input2)/100));
     }
+    sc.close();
   }
 }

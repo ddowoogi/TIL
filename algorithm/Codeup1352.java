@@ -13,5 +13,6 @@ for(int i=0;i<a;i++){
     }
     System.out.println();
 }
+sc.close();
     }
 }

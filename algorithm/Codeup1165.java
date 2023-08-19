@@ -32,10 +32,12 @@ public class Codeup1165 {
 		}
 	
 	System.out.println("우리팀의 최종 득점은 : " + StrikerPoint);
-	
+	sc.close();
 	}
 	
 	public static void main(String[] args) {
 		new Codeup1165();
+
+	
 	}
 }

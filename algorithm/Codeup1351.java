@@ -13,5 +13,6 @@ public class Codeup1351 {
 				System.out.println(i + "*" + j + "=" + i*j);
 			}
 		}
+		sc.close();
 	}
 }

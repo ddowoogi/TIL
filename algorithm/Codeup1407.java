@@ -11,5 +11,6 @@ public class Codeup1407 {
 				System.out.print(a.charAt(i));
 			}
 		}
+		sc.close();
 	}
 }

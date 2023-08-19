@@ -13,6 +13,7 @@ public class Codeup1019 {
         int C = Integer.valueOf(arr[2]);
         
         System.out.printf("%04d.%02d.%02d", A, B, C);
+        sc.close();
     }
 }
 

@@ -22,7 +22,7 @@ public class Codeup3130 {
 			}
 		}
 		System.out.println(answer);
-		
+		sc.close();
 	}
 		
 }

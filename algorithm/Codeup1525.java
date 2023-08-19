@@ -97,5 +97,6 @@ public class Codeup1525 {
 				System.out.println("player " + (i+1) + " survive");
 			}
 		}
+		sc.close();
 	}
 }

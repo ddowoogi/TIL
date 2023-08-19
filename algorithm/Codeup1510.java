@@ -38,5 +38,6 @@ public class Codeup1510 {
 			}
 			System.out.println();
 		}
+		sc.close();
 	}
 }

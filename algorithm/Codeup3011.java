@@ -35,5 +35,6 @@ public class Codeup3011 {
 		}
 		
 		System.out.println(result);
+		sc.close();
 	} // end main()
 } // end Main

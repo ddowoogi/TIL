@@ -29,5 +29,7 @@ public class Codeup2001{
         float b_min = def_min(b);
         
         System.out.println(String.format("%.1f",(a_min + b_min)*1.1));
+
+        sc.close();
     }
 }

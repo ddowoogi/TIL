@@ -13,5 +13,6 @@ public class Codeup1901 {
 		Scanner sc = new Scanner(System.in);
 		int n = sc.nextInt();
 		f(n);
+		sc.close();
     }
 }

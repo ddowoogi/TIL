@@ -33,5 +33,6 @@ public class Codeup1160 {
 		} else {
 			System.out.println("숫자는 1부터 7까지입니다.");
 		}
+		sc.close();
 	}
 }

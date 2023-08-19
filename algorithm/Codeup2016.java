@@ -27,5 +27,6 @@ public class Codeup2016{
       //숫자 출력
 			System.out.print(word[i]);
 		}
+		sc.close();
     }
 }
