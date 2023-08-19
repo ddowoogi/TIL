@@ -22,7 +22,7 @@ class Student{
 	}
 	public int getRank() {
 		return rank;
-	}
+	}	
 	public void setRank(int rank) {
 		this.rank = rank;
 	}
@@ -50,5 +50,6 @@ public class Codeup4012 {
 		for(Student x : list) { // 출력
 			System.out.println(x.getScore() + " " + x.getRank());
 		}
+		sc.close();
 	} // end main()
 } // end Main
